@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chindukuri Pavan</h1>
 <h3 align="center">A developer from India ❤</h3>
-
+<div align="center">
+<img src="./devcard.svg" height="450">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghana7989&label=Profile%20views&color=0e75b6&style=flat" alt="ghana7989" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghana7989" alt="ghana7989" /></a> </p>
@@ -24,7 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghana7989&show_icons=true&locale=en" alt="ghana7989" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghana7989&" alt="ghana7989" /></p>
-
-<img src="./devcard.svg"
-     height="450"
-     >
