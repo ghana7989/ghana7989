@@ -25,4 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghana7989&" alt="ghana7989" /></p>
 
-<img src="./devcard.svg">
+<img src="./devcard.svg"
+     height="450"
+     >
