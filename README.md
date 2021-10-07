@@ -24,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghana7989&show_icons=true&locale=en" alt="ghana7989" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghana7989&" alt="ghana7989" /></p>
-<a href="https://app.daily.dev/ghana7989"><img src="https://api.daily.dev/devcards/6315c98676ac46799336acedb483570b.png?r=vzi" width="400" alt="Chindukuri Pavan's Dev Card"/></a>
+
+<img src="./devcard.svg">
