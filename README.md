@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chindukuri Pavan</h1>
 <h3 align="center">A developer from India ❤</h3>
 <div align="center">
-<a href="https://app.daily.dev/ghana7989"><img src="https://api.daily.dev/devcards/v2/4fYjvNv_X0.png?type=default&r=2ld" width="356" alt="Chindukuri Pavan's Dev Card"/></a>
+<a href="https://app.daily.dev/ghana7989"><img src="./devcard.png" width="356" alt="Pavan's Dev Card"/></a>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghana7989&label=Profile%20views&color=0e75b6&style=flat" alt="ghana7989" /> </p>
 
