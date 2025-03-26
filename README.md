@@ -5,8 +5,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghana7989&label=Profile%20views&color=0e75b6&style=flat" alt="ghana7989" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghana7989" alt="ghana7989" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghana7989&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React.Js, Node.JS**
